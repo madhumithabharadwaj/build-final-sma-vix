@@ -132,3 +132,5 @@ This project demonstrates practical algorithmic trading concepts including:
 - A complete backtest  
 - Clean code structure  
 
+Acknowledgement: Portions of the documentation and project explanation were assisted by an LLM, and all code was reviewed, tested, and verified by me.
+
