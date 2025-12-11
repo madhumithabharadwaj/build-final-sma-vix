@@ -2,6 +2,8 @@
 ## SMA Trend-Following Strategy with External VIX CSV Data (QuantConnect)
 ### By Madhumitha Bharadwaj
 
+Repository URL: https://github.com/madhumithabharadwaj/build-final-sma-vix
+
 ## 1. Project Overview
 
 This project implements a simple and interpretable trend-following strategy using QuantConnect’s Lean engine.  
